@@ -1,2 +1,2 @@
 # MLCM_exercises
-Exercisesfor Machine Learning and crowd modelling
+Exercises for Machine Learning and crowd modelling
